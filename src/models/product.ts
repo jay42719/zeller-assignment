@@ -1,5 +1,5 @@
 export type Product = {
-  sku: string;
+  sku: string; // Stock Keeping Unit
   name: string;
   price: number;
 };
